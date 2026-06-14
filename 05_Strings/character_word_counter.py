@@ -1,0 +1,5 @@
+text+input("Enter a string:")
+char_count=len(text.replace("",""))
+word_count=len(text.splite())
+print("characters(nospace):",char_count)
+print("Words:",word_count)
